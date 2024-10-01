@@ -1005,7 +1005,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _playerStatsConfig: {fileID: 11400000, guid: 72506e7aadaa62a4d98f411c66754a62, type: 2}
-  _statsView: {fileID: 0}
 --- !u!4 &1818075081
 Transform:
   m_ObjectHideFlags: 0
@@ -1301,9 +1300,9 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 2128305463}
+  - {fileID: 1818075081}
   - {fileID: 963194228}
   - {fileID: 705507995}
   - {fileID: 854465592}
   - {fileID: 602046712}
   - {fileID: 380615671}
-  - {fileID: 1818075081}
